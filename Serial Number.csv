@@ -1,0 +1,88 @@
+MCDM Tools / Methods,Serial Number | Application Area
+AHP,"1             | Supply Chain Management, Risk Management"
+Fuzzy AHP,"2             | Supply Chain Management, Medical Device and Material Selection, Logistics, COVID-19"
+"Rank order centroid, fuzzy TOPSIS",3             | Supply Chain Management
+SMART,"4             | Supply Chain Management, Medical Device and Material Selection, Disease Identification and Treatment, Operations Management in Healthcare, COVID-19"
+MARCOS,"5             | Supply Chain Management, Medical Device and Material Selection, Logistics"
+"BWM, DEMATEL, EDAS",6             | Supply Chain Management
+"PIPRECIA, MABAC, CoCoSo, MARCOS",7             | Supply Chain Management
+"Fuzzy Delphi, SWARA, fuzzy COPRAS","8             | Supply Chain Management, Medical Device and Material Selection, Healthcare Information System"
+"Rough numbers, PFS, BWM, MABAC",9             | Supply Chain Management
+"Fuzzy Delphi, grey-DEMATEL","10            | Supply Chain Management, Medical Device and Material Selection, Disease Identification and Treatment, COVID-19"
+"AHP, TOPSIS","11            | Supply Chain Management, Disease Identification and Treatment, COVID-19"
+AHP,"12            | Supply Chain Management, Medical Device and Material Selection, Operations Management in Healthcare"
+"BWM, GRA, TOPSIS","13            | Supply Chain Management, Disease Identification and Treatment"
+"IVIFS, VIKOR, MARCOS","14            | Supply Chain Management, Medical Device and Material Selection"
+Evidence-based decision making,"15            | Medical Device and Material Selection, Disease Identification and Treatment"
+"NFS, Neutrosophic Fuzzy (NF)-TOPSIS, NF-AHP, NF-MOORA",16            | Medical Device and Material Selection
+"Intuitionistic Fuzzy (IF) Choquet interval, IF-VIKOR, IF-TOPSIS, IF-COPRAS, IF-MOORA, IF-MULTIMOORA",17            | Medical Device and Material Selection
+"Interval-valued type-2 Gaussian fuzzy sets, TODIM",18            | Medical Device and Material Selection
+"Trapezoidal Bipolar Fuzzy Sets, EDAS",19            | Medical Device and Material Selection
+"AHP, ELECTRE","20            | Medical Device and Material Selection, Healthcare Information System"
+Fuzzy TOPSIS,21            | Medical Device and Material Selection
+"Fuzzy PSI, fuzzy MARCOS",22            | Medical Device and Material Selection
+"Borda method, WSM",23            | Medical Device and Material Selection
+"BWM, EDAS",24            | Disease Identification and Treatment
+Intuitionistic fuzzy multiplicative BWM,25            | Disease Identification and Treatment
+"Multi-attribute utility theory, AHP",26            | Disease Identification and Treatment
+"AHP, DEMATEL","27            | Disease Identification and Treatment, COVID-19"
+"EM, VIKOR, TOPSIS",28            | Disease Identification and Treatment
+"EM, VIKOR","29            | Disease Identification and Treatment, COVID-19"
+"q-rung orthopair fuzzy soft numbers, AHP",30            | Healthcare Information System
+SMART,31            | Healthcare Information System
+"DEMATEL, ANP, VIKOR",32            | Healthcare Information System
+VIKOR,33            | Healthcare Information System
+"DEMATEL, AHP",34            | Healthcare Information System
+Fuzzy ANP,"35            | Healthcare Information System, Logistics"
+Fuzzy ELECTRE,36            | Healthcare Information System
+"Hesitant fuzzy linguistic (HFL) set, AHP, CODAS",37            | Healthcare Information System
+"AHP, Fuzzy TOPSIS",38            | Healthcare Information System
+"Fuzzy logic, ANP, TOPSIS",39            | Healthcare Information System
+Fuzzy ANP,40            | Logistics
+Fuzzy ANP,41            | Logistics
+PROMETHEE,"42            | Logistics, Operations Management in Healthcare"
+Fuzzy AHP,43            | Logistics
+"Interval Neutrosophic Fuzzy Sets, VIKOR",44            | Logistics
+WSM,45            | Logistics
+"Hesitant Fuzzy Linguistic Term Sets, MABAC",46            | Logistics
+"CRITIC, TOPSIS, EDAS, CODAS",47            | Logistics
+"2-Tuple DEMATEL, Fuzzy VIKOR",48            | Logistics
+"BWM, ARAS, Z Numbers",49            | Logistics
+SMART,50            | Operations Management in Healthcare
+Intuitionistic Fuzzy TOPSIS,51            | Operations Management in Healthcare
+TOPSIS,52            | Operations Management in Healthcare
+PROMETHEE-II,53            | Operations Management in Healthcare
+Modified Kemeny Median Indicator Rank Accordance (KEMIRA-M),54            | Healthcare Quality Evaluation
+"WSM, VIKOR",55            | Healthcare Quality Evaluation
+Fuzzy AHP,56            | Healthcare Quality Evaluation
+"Linguistic Hesitant Fuzzy Set, VIKOR",57            | Healthcare Quality Evaluation
+"IVIFS, PROMETHEE",58            | Healthcare Quality Evaluation
+"AHP, TOPSIS, ELECTRE",59            | Healthcare Quality Evaluation
+"Fuzzy AHP, DEA",60            | Healthcare Quality Evaluation
+BWM,61            | Healthcare Quality Evaluation
+"Hesitant Fuzzy Linguistic Term Sets, TOPSIS",62            | Healthcare Quality Evaluation
+"BWM, Fuzzy Preference Programming",63            | Healthcare Quality Evaluation
+"Fuzzy Set Theory, AHP",64            | Waste Management
+AHP,65            | Waste Management
+"Fuzzy DEMATEL, BWM",66            | Waste Management
+"AHP, VIKOR, PROMETHEE",67            | Waste Management
+"Fuzzy Set Theory, VIKOR",68            | Waste Management
+"ANP, ELECTRE",69            | Waste Management
+"Interval 2-Tuple Linguistic Set, MULTIMOORA",70            | Waste Management
+"2-Tuple DEMATEL, Fuzzy MULTIMOORA",71            | Waste Management
+"AHP, TOPSIS",72            | Waste Management
+"Fuzzy AHP, Fuzzy TOPSIS",73            | Waste Management
+"AHP, VIKOR, PROMETHEE",74            | Waste Management
+"D Numbers, WSM",75            | COVID-19
+AHP,76            | COVID-19
+"Hesitant Fuzzy Linguistic Term Set, MAIRCA, MABAC",77            | COVID-19
+"AHP, VIKOR",78            | COVID-19
+"Fuzzy VIKOR, Fuzzy TOPSIS",79            | COVID-19
+"Fuzzy PROMETHEE, Fuzzy VIKOR",80            | COVID-19
+"Fuzzy AHP, MOORA",81            | COVID-19
+PROMETHEE,82            | COVID-19
+"CRITIC, TOPSIS",83            | COVID-19
+"CRITIC, VIKOR",84            | COVID-19
+"FUCOM, Fuzzy-QFD",85            | COVID-19
+"BWM, Multi-actor Multi-criteria Analysis, Multi-objective Linear Programming",86            | COVID-19
+Fuzzy AHP,87            | COVID-19
